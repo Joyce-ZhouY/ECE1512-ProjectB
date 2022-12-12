@@ -7,11 +7,11 @@ The code of task 1 is in [ProjectB_Part1.ipynb](https://github.com/Joyce-ZhouY/E
 
 ## Task 2 - part1
 ### Dataset Distillation by Matching Training Trajectories[[2]](#2)
-The code of task 2 part 1 is in [ProjectB_Part2_distribution_matching.ipynb](https://github.com/Joyce-ZhouY/ECE1512-ProjectB/blob/main/ProjectB_Part2_distribution_matching.ipynb). 
+The code of task 2 part 1 is in [.ipynb](). 
 
 ## Task 2 - part2
 ### Dataset Distillation by Distribution Matching[[3]](#3)
-The code of task 2 part 2 is in [.ipynb](). 
+The code of task 2 part 2 is in [ProjectB_Part2_distribution_matching.ipynb](https://github.com/Joyce-ZhouY/ECE1512-ProjectB/blob/main/ProjectB_Part2_distribution_matching.ipynb). 
 
 ## References
 <a id="1">[1]</a> 
