@@ -3,15 +3,15 @@ The purpose of the project is to develop a compact training dataset that is simp
 
 ## Task 1
 ### Dataset Distillation with Gradient Matching[[1]](#1)
-The code of task 1 is in [ProjectB_Part1.ipynb](https://github.com/Joyce-ZhouY/ECE1512-ProjectB/blob/main/ProjectB_Part1.ipynb). 
+The code of task 1 is in [Part1.ipynb](https://github.com/Joyce-ZhouY/ECE1512-ProjectB/blob/main/ProjectB_Part1.ipynb). 
 
 ## Task 2 - part1
 ### Dataset Distillation by Matching Training Trajectories[[2]](#2)
-The code of task 2 part 1 is in [.ipynb](). 
+The code of task 2 part 1 is in [part2_expert_trajectory.ipynb](https://github.com/Joyce-ZhouY/ECE1512-ProjectB/blob/main/ProjectB_part2_Expert_Trajectory.ipynb). 
 
 ## Task 2 - part2
 ### Dataset Distillation by Distribution Matching[[3]](#3)
-The code of task 2 part 2 is in [ProjectB_Part2_distribution_matching.ipynb](https://github.com/Joyce-ZhouY/ECE1512-ProjectB/blob/main/ProjectB_Part2_distribution_matching.ipynb). 
+The code of task 2 part 2 is in [Part2_distribution_matching.ipynb](https://github.com/Joyce-ZhouY/ECE1512-ProjectB/blob/main/ProjectB_Part2_distribution_matching.ipynb). 
 
 ## References
 <a id="1">[1]</a> 
